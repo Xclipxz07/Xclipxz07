@@ -76,7 +76,7 @@
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhatdhar32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.http://linkedin.com/in/prabhat-dhar-13723618b )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/prabhat-dhar-13723618b )
 ---
 
 ⭐ *“Data is the new oil — but only when refined.”*
