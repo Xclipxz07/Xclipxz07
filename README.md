@@ -83,6 +83,27 @@
 - Exploratory Data Analysis (EDA)
 - Machine Learning model to predict house prices
 
+### 🔹 [BANKING CHURN PREDICTION](https://github.com/Xclipxz07/Banking-Churn-Prediction)
+
+- Generated a synthetic banking dataset (with duplicates and missing values)
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned the data (handle duplicates and missing values)
+- Done preprocessing pipelines
+- Trained and compared multiple machine learning models (Logistic Regression, Random Forest, Gradient Boosting)
+- Evaluated and visualized performance (ROC curves, confusion matrix, feature importance)
+- Predicted future churn probabilities for new customers
+- Saved cleaned datasets and model results
+
+### 🔹 [CREDIT CARD FRAUD ANALYSIS](https://github.com/Xclipxz07/Credit-Card-Analysis)
+
+- Generated a realistic synthetic dataset (fraud vs. non-fraud)
+- Explored the data (EDA)
+- Handled imbalance using class weights or SMOTE
+- Trained multiple ML models (Logistic Regression, Random Forest, Gradient Boosting)
+- Evaluated and compared models (ROC-AUC, F1, Precision, Recall)
+- Visualized results (ROC curves, confusion matrix, feature importances)
+- Predicted future transactions and save results
+
 ### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Prabhat/blob/main/Rain_Prediction%20using%20PyCaret%20(2).ipynb)
 - Analysed and cleaned the datasheet for further analysis.
 - Created a web app which will predict wether it will rain tomorrow or not using different ML models and then Auto ML Library i.e. PyCaret in this project.
