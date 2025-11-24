@@ -66,7 +66,7 @@
 
 - Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
 - Analysed the Data and visualized it and then forcasted the next 2month using ML models.
-- Used tools SQL, Python, PowerBi and Tableau(Dashboard creatio)
+- Used tools SQL, Python, PowerBi and Tableau(Dashboard creation)
 
 ### 🔹 [HOUSE PRICE ANALYSIS AND PREDICTION](https://github.com/Xclipxz07/House-Price-Analysis-And-Prediction)
 
