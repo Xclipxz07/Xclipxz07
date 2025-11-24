@@ -61,6 +61,20 @@
 
 ## 📊 Projects
 
+
+## 🔹 [SIMPLE ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
+
+- Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
+- Analysed the Data and visualized it and then forcasted the next 2month using ML models.
+- Used tools SQL, Python, PowerBi and Tableau(Dashboard creatio)
+
+### 🔹 [HOUSE PRICE ANALYSIS AND PREDICTION](https://github.com/Xclipxz07/House-Price-Analysis-And-Prediction)
+
+- Created a synthetic dataset with missing and duplicate values
+- Cleaned data (handling missing & duplicate entries)
+- Exploratory Data Analysis (EDA)
+- Machine Learning model to predict house prices
+
 ### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Prabhat/blob/main/Rain_Prediction%20using%20PyCaret%20(2).ipynb)
 - Analysed and cleaned the datasheet for further analysis.
 - Created a web app which will predict wether it will rain tomorrow or not using different ML models and then Auto ML Library i.e. PyCaret in this project.
