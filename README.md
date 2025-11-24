@@ -62,11 +62,19 @@
 ## 📊 Projects
 
 
-## 🔹 [SIMPLE ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
+### 🔹 [SIMPLE ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
 
 - Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
 - Analysed the Data and visualized it and then forcasted the next 2month using ML models.
 - Used tools SQL, Python, PowerBi and Tableau(Dashboard creation)
+
+### 🔹 [SALES ANALYSIS AND FORECASTING USING MACHINE LEARNING](https://github.com/Xclipxz07/Sales-Analysis-and-Forecasting-Using-ML-Models)
+
+- Generated(synthetic) or loaded sales data
+- Data visualization
+- Feature engineering (lags, cyclical features)
+- Machine Learning forecasting models
+- Model comparison (RMSE, MAE)
 
 ### 🔹 [HOUSE PRICE ANALYSIS AND PREDICTION](https://github.com/Xclipxz07/House-Price-Analysis-And-Prediction)
 
