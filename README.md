@@ -1,5 +1,7 @@
 # 👋 Hi, I'm PRABHAT DHAR
 
+⭐ *“Data is the new oil — but only when refined.”*
+
 💼 *Data Analyst | Python | SQL | Power BI | Excel*  
 📊 I love turning raw data into meaningful insights and visual stories.  
 🎯 Passionate about data visualization, business intelligence, and problem-solving.  
@@ -62,11 +64,24 @@
 ## 📊 Projects
 
 
-### 🔹 [SIMPLE ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
+### 🔹 [SIMPLE A&E ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
 
 - Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
 - Analysed the Data and visualized it and then forcasted the next 2month using ML models.
 - Used tools SQL, Python, PowerBi and Tableau(Dashboard creation)
+
+### 🔹 [NHS DATA ANALYSIS](https://github.com/Xclipxz07/NHS-ANALYSIS)
+
+- Created MOCK data/Loaded csv file for 3 different analysis (NHS) in python.
+- Automation scripts
+- Patient data cleaning
+- Survey Analysis using Python 
+
+### 🔹 [FULL CI/CD PIPELINING](https://github.com/Xclipxz07/pipelining)
+
+ - This repository demonstrates three separate example CI/CD pipelines (Python, SQL, Excel)
+ - A unified full pipeline that runs them all.
+ - It is intended as self project for Data Analysts / Data Engineer.
 
 ### 🔹 [SALES ANALYSIS AND FORECASTING USING MACHINE LEARNING](https://github.com/Xclipxz07/Sales-Analysis-and-Forecasting-Using-ML-Models)
 
@@ -109,10 +124,11 @@
 - Created a web app which will predict wether it will rain tomorrow or not using different ML models and then Auto ML Library i.e. PyCaret in this project.
 
 
-## 📈 GitHub Stats
+### 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xclipxz07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xclipxz07&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xclipxz07&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xclipxz07&theme=radical)
 
 ---
 
@@ -122,4 +138,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/prabhat-dhar-13723618b )
 ---
 
-⭐ *“Data is the new oil — but only when refined.”*
