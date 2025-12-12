@@ -119,9 +119,10 @@
 - Visualized results (ROC curves, confusion matrix, feature importances)
 - Predicted future transactions and save results
 
-### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Prabhat/blob/main/Rain_Prediction%20using%20PyCaret%20(2).ipynb)
+### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Rainfall-prediction/tree/main)
 - Analysed and cleaned the datasheet for further analysis.
 - Created a web app which will predict wether it will rain tomorrow or not using different ML models and then Auto ML Library i.e. PyCaret in this project.
+- Tools used - Python, Jupyter, Latex , powerpoint.
 
 
 ### 🚀 GitHub Stats
