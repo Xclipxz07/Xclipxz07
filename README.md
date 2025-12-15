@@ -75,6 +75,27 @@
 ## 📊 Projects
 
 
+### 🔹 [PORTFOLIO](https://github.com/Xclipxz07/Portfolio)
+
+- Professional portfolio website designed to showcase my skills, expertise, and achievements in data analysis and machine learning.
+- Built with modern web technologies (HTML, CSS, JavaScript) featuring an interactive and responsive design that highlights key projects, technical skills, education, and professional background.
+- Deployed on GitHub Pages for seamless online accessibility, providing recruiters and collaborators with a comprehensive overview of my work and capabilities.
+- Includes downloadable resume (CV), project links, contact information, and GitHub statistics for easy reference and connection.
+- **Tools Used:** HTML5, CSS3, JavaScript, GitHub Pages
+
+### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Rainfall-prediction)
+
+- A sophisticated machine learning dissertation project aimed at developing predictive models to accurately forecast whether it will rain tomorrow based on historical weather patterns from the Australian weather dataset.
+- Conducted comprehensive exploratory data analysis (EDA) to understand weather patterns, correlations, and seasonal trends; performed rigorous data cleaning including handling missing values, outliers, and data quality issues to ensure dataset integrity and reliability for model training.
+- Implemented multiple machine learning algorithms including Logistic Regression, Random Forest, Gradient Boosting, and Neural Networks to compare performance across different modeling approaches and identify the most effective predictor for rainfall forecasting.
+- Leveraged PyCaret (AutoML library) to automate the machine learning workflow including automated feature engineering, hyperparameter tuning, model selection, and comparison—significantly accelerating the model development process while achieving optimal performance metrics.
+- Performed comprehensive model evaluation and validation using metrics such as accuracy, precision, recall, F1-score, ROC-AUC curves, and confusion matrices to ensure robust model performance and minimize prediction errors in real-world rainfall scenarios.
+- Created interactive visualizations and statistical analyses using Matplotlib, Seaborn, and Plotly to illustrate weather patterns, model performance comparisons, feature importance rankings, and prediction outcomes in an easily interpretable format.
+- Developed a detailed academic dissertation document using LaTeX, complete with literature review, methodology explanation, results analysis, conclusions, and comprehensive bibliography—demonstrating advanced technical writing and research documentation skills.
+- Generated professional presentation materials (PowerPoint) summarizing key findings, model performance, and actionable insights for stakeholders and academic review, effectively communicating complex machine learning concepts to non-technical audiences.
+- **Technologies & Tools:** Python, Jupyter Notebook, PyCaret (AutoML), Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels (ARIMA), LaTeX, PowerPoint, GitHub, Google Colab
+- **Key Skills Demonstrated:** Machine Learning, Time Series Analysis, Feature Engineering, Model Evaluation, EDA, Data Cleaning, AutoML, Academic Research, Technical Documentation
+  
 ### 🔹 [SIMPLE A&E ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
 
 - Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
@@ -88,12 +109,6 @@
 - Patient data cleaning
 - Survey Analysis using Python 
 
-### 🔹 [FULL CI/CD PIPELINING](https://github.com/Xclipxz07/pipelining)
-
- - This repository demonstrates three separate example CI/CD pipelines (Python, SQL, Excel)
- - A unified full pipeline that runs them all.
- - It is intended as self project for Data Analysts / Data Engineer.
-
 ### 🔹 [SALES ANALYSIS AND FORECASTING USING MACHINE LEARNING](https://github.com/Xclipxz07/Sales-Analysis-and-Forecasting-Using-ML-Models)
 
 - Generated(synthetic) or loaded sales data
@@ -101,13 +116,6 @@
 - Feature engineering (lags, cyclical features)
 - Machine Learning forecasting models
 - Model comparison (RMSE, MAE)
-
-### 🔹 [HOUSE PRICE ANALYSIS AND PREDICTION](https://github.com/Xclipxz07/House-Price-Analysis-And-Prediction)
-
-- Created a synthetic dataset with missing and duplicate values
-- Cleaned data (handling missing & duplicate entries)
-- Exploratory Data Analysis (EDA)
-- Machine Learning model to predict house prices
 
 ### 🔹 [BANKING CHURN PREDICTION](https://github.com/Xclipxz07/Banking-Churn-Prediction)
 
@@ -130,10 +138,6 @@
 - Visualized results (ROC curves, confusion matrix, feature importances)
 - Predicted future transactions and save results
 
-### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Rainfall-prediction/tree/main)
-- Analysed and cleaned the datasheet for further analysis.
-- Created a web app which will predict wether it will rain tomorrow or not using different ML models and then Auto ML Library i.e. PyCaret in this project.
-- Tools used - Python, Jupyter, Latex , powerpoint.
 
 
 ### 🚀 GitHub Stats
