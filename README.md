@@ -67,13 +67,10 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4E9A06?style=flat)
 ![PyCaret](https://img.shields.io/badge/PyCaret-FF4B4B?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00A4EF?style=flat-square&logo=python&logoColor=white)
-![Openpyxl](https://img.shields.io/badge/Openpyxl-217346?style=flat-square&logo=python&logoColor=white)
-![ARIMA](https://img.shields.io/badge/ARIMA-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas Profiling](https://img.shields.io/badge/Pandas%20Profiling-150458?style=flat-square&logo=pandas&logoColor=white)
 ![ReportLab](https://img.shields.io/badge/ReportLab-2E8B57?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ## 📊 Projects
 
