@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [PRABHAT DHAR](https://github.com/Xclipxz07/RESUME/blob/main/Prabhatcv.pdf)
 
-[Personal Website](https://xclipxz07.github.io/portfolio/)
+[Personal Website](https://github.com/Xclipxz07/portfolio)
 
 ⭐ *“Data is the new oil — but only when refined.”*
 
