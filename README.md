@@ -97,6 +97,17 @@
 - **Technologies & Tools:** Python, Machine Learning (Scikit-learn, TensorFlow, PyTorch), Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Jupyter Notebook, GitHub, Google Colab
 - **Key Skills Demonstrated:** Artificial Intelligence, Machine Learning, Predictive Modeling, Feature Engineering, Data Analysis, Web Application Development, UI/UX Design, Health Data Analytics, Personalization Algorithms
 
+### 🔹 [C.L.A.I.R.E](https://github.com/Xclipxz07/C.L.A.I.R.E)
+
+- An advanced artificial intelligence application designed to provide intelligent analytics, insights, and personalized recommendations through sophisticated machine learning algorithms and natural language processing capabilities.
+- Leverages Python with powerful machine learning libraries (Scikit-learn, TensorFlow, PyTorch) to process complex datasets, identify meaningful patterns, and deliver actionable intelligence tailored to specific user needs.
+- Implements state-of-the-art algorithms for comprehensive data analysis, pattern recognition, anomaly detection, and predictive modeling to enhance decision-making processes and operational efficiency.
+- Features interactive data visualization dashboards using Matplotlib, Seaborn, and Plotly to present AI-driven insights in visually compelling and easily interpretable formats for diverse audiences.
+- Integrates robust data preprocessing and feature engineering techniques to ensure data quality, consistency, and optimal model performance across various analytical tasks.
+- Provides comprehensive reporting mechanisms and automated insights generation to communicate complex AI-driven findings and recommendations effectively to stakeholders. 
+- Demonstrates full-stack AI application development from data ingestion and model training to deployment and user-facing interfaces for real-world impact.
+- **Technologies & Tools:** Python, Machine Learning (Scikit-learn, TensorFlow, PyTorch), Natural Language Processing, Data Analytics, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, GitHub
+- 
 ### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Rainfall-prediction)
 
 - A sophisticated machine learning dissertation project aimed at developing predictive models to accurately forecast whether it will rain tomorrow based on historical weather patterns from the Australian weather dataset.
@@ -130,27 +141,6 @@
 - Feature engineering (lags, cyclical features)
 - Machine Learning forecasting models
 - Model comparison (RMSE, MAE)
-
-### 🔹 [BANKING CHURN PREDICTION](https://github.com/Xclipxz07/Banking-Churn-Prediction)
-
-- Generated a synthetic banking dataset (with duplicates and missing values)
-- Performed Exploratory Data Analysis (EDA)
-- Cleaned the data (handle duplicates and missing values)
-- Done preprocessing pipelines
-- Trained and compared multiple machine learning models (Logistic Regression, Random Forest, Gradient Boosting)
-- Evaluated and visualized performance (ROC curves, confusion matrix, feature importance)
-- Predicted future churn probabilities for new customers
-- Saved cleaned datasets and model results
-
-### 🔹 [CREDIT CARD FRAUD ANALYSIS](https://github.com/Xclipxz07/Credit-Card-Analysis)
-
-- Generated a realistic synthetic dataset (fraud vs. non-fraud)
-- Explored the data (EDA)
-- Handled imbalance using class weights or SMOTE
-- Trained multiple ML models (Logistic Regression, Random Forest, Gradient Boosting)
-- Evaluated and compared models (ROC-AUC, F1, Precision, Recall)
-- Visualized results (ROC curves, confusion matrix, feature importances)
-- Predicted future transactions and save results
 
 
 
