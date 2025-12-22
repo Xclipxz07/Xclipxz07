@@ -71,8 +71,23 @@
 ![ReportLab](https://img.shields.io/badge/ReportLab-2E8B57?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📊 Projects
+
+### 🔹 [AWS & AZURE LEARNING PATH: BEGINNER TO JOB READY](https://github.com/Xclipxz07/Xclipxz07/tree/main/AWS-Azure-Learning-Path)
+
+- **Comprehensive cloud learning roadmap** from beginner to job-ready professional covering both AWS and Azure platforms with real-world projects
+- **7-phase structured curriculum**: Cloud Fundamentals → Compute Services → Storage & Databases → Networking & Security → DevOps & Automation → Serverless & Containers → Monitoring & Optimization
+- **20+ hands-on projects** including static website hosting, multi-tier applications, microservices architecture, CI/CD pipelines, and production-ready deployments
+- **Certification guidance** for AWS (Cloud Practitioner, Solutions Architect, Developer) and Azure (Fundamentals AZ-900, Administrator AZ-104, Solutions Architect AZ-305)
+- **Career roadmap and interview preparation** including common interview questions, STAR method examples, salary negotiation tips, and 90-day job-ready plan
+- **Cost-optimized learning** utilizing AWS Free Tier (12 months) and Azure Free Account ($200 credit) to minimize expenses while maximizing hands-on experience
+- **Complete guides** for EC2, S3, Lambda, VPC, RDS, DynamoDB, CloudFront on AWS and VMs, Blob Storage, Functions, VNet, SQL, Cosmos DB, CDN on Azure
+- **Technologies Covered:** AWS, Azure, Terraform, Docker, Kubernetes, CI/CD, Monitoring, Security, Networking, Serverless, Infrastructure as Code
+- **Time Commitment:** 6-8 months part-time study with clear weekly objectives and project milestones
+- **Job Roles:** Cloud Engineer, DevOps Engineer, Solutions Architect, Site Reliability Engineer, Cloud Security Engineer
 
 
 ### 🔹 [PORTFOLIO](https://github.com/Xclipxz07/Portfolio)
