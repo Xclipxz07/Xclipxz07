@@ -4,7 +4,7 @@
 
 ⭐ *“Data is the new oil — but only when refined.”*
 
-💼 *Data Analyst | Python | SQL | Power BI | Excel*  
+💼 *Data Analyst | Python | SQL | Power BI | Excel | MLOps | DevOps*  
 📊 I love turning raw data into meaningful insights and visual stories.  
 🎯 Passionate about data visualization, business intelligence, and problem-solving.  
 
@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning: *Machine Learning & Advanced Analytics*
+- 🌱 Currently learning: *Machine Learning, MLOps, DevOps, and Generative AI*
 - 💡 Interested in: *Data Storytelling, Predictive Modeling, and Dashboard Design*
 - 📍 Based in: LONDON, UNITED KINGDOM
-- 💬 Ask me about: *Data Cleaning, Visualization, and Automation*
+- 💬 Ask me about: *Data Analysis, ML Pipelines, CI/CD, Containerization, and API Development*
 - ⚡ Fun fact: I believe every dataset tells a story — you just need to ask the right questions!
 
 ---
@@ -52,6 +52,12 @@
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 
 ---
@@ -71,9 +77,24 @@
 ![ReportLab](https://img.shields.io/badge/ReportLab-2E8B57?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2C5BB4?style=flat-square&logo=uvicorn&logoColor=white)
 
 ## 📊 Projects
 
+### 🔹 [DATA ANALYSIS FOR DEVOPS, MLOPS & GENAI](https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI)
+
+- A comprehensive production-ready sales forecasting system combining machine learning, generative AI, and modern DevOps practices—demonstrating the complete data science and engineering stack from data analysis to automated deployment.
+- Implements end-to-end ML pipeline including SQLite database for persistent storage, Jupyter Notebook for interactive data exploration, Linear Regression for trend prediction, and OpenAI GPT-4 integration for intelligent AI-powered forecasting.
+- Built scalable REST API using FastAPI framework with multiple endpoints (`/sales`, `/predict`) for programmatic access to sales data and forecasts, complete with auto-generated interactive API documentation.
+- Containerized application using Docker with comprehensive Dockerfile configuration, enabling consistent deployment across environments and seamless scalability for production workloads.
+- Orchestrated deployment using Kubernetes with deployment and service YAML configurations, supporting horizontal scaling, load balancing, and high availability for enterprise-grade applications.
+- Implemented complete CI/CD pipeline using Jenkins (Jenkinsfile) for automated testing, building Docker images, and deploying to Kubernetes—demonstrating modern DevOps automation practices.
+- Created interactive data visualizations using Plotly for dynamic sales trend analysis and 7-day forecasting charts, with Power BI dashboards (.pbix files and PDF exports) for comprehensive business intelligence reporting.
+- Developed comprehensive technical documentation using LaTeX (explanation.tex/pdf) covering system architecture, machine learning methodology, API specifications, deployment procedures, and troubleshooting guides.
+- **Technologies & Tools:** Python, Jupyter Notebook, SQLite, Pandas, Scikit-learn (LinearRegression), OpenAI GPT-4, FastAPI, Uvicorn, Plotly, Power BI, Docker, Kubernetes, Jenkins, LaTeX, SQL, Git
+- **Key Skills Demonstrated:** Machine Learning, Generative AI (GenAI), DevOps, MLOps, CI/CD Automation, API Development, Database Management, Data Visualization, Dashboard Design, Containerization, Orchestration, Technical Documentation, Full-Stack Data Engineering
 
 ### 🔹 [PORTFOLIO](https://github.com/Xclipxz07/Portfolio)
 
