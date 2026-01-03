@@ -1,0 +1,164 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.5in, top=0.4in, bottom=0.4in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{fontawesome}
+
+% Color definitions
+\definecolor{darkblue}{RGB}{0,51,102}
+\definecolor{lightgray}{RGB}{100,100,100}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{6pt}{3pt}
+
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+\titlespacing{\subsection}{0pt}{4pt}{1pt}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    urlcolor=darkblue,
+    pdftitle={Prabhat Dhar - CV},
+    pdfauthor={Prabhat Dhar}
+}
+
+% Remove page numbers
+\pagestyle{empty}
+
+% Custom commands
+\newcommand{\cvitem}[2]{\textbf{#1:} #2}
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\LARGE\bfseries\color{darkblue} PRABHAT DHAR}\\[2pt]
+    \color{lightgray}\small
+    Data Analyst | Python | SQL | Power BI | Machine Learning | MLOps | DevOps\\[3pt]
+    \faMapMarker\ London, UK \quad
+    \faEnvelope\ \href{mailto:prabhatdhar32@gmail.com}{prabhatdhar32@gmail.com} \quad
+    \faLinkedin\ \href{http://linkedin.com/in/prabhat-dhar-13723618b}{LinkedIn} \quad
+    \faGithub\ \href{https://github.com/Xclipxz07}{GitHub}\\[2pt]
+    \faGlobe\ \href{https://xclipxz07.github.io/Portfolio/}{Portfolio}
+\end{center}
+
+\vspace{-6pt}
+
+% Professional Summary
+\section*{PROFESSIONAL SUMMARY}
+\vspace{-2pt}
+{\small Data Analyst with expertise in transforming raw data into actionable insights through Python, SQL, and advanced visualization tools. Strong background in implementing end-to-end ML pipelines, CI/CD automation, and containerized deployments. Committed to leveraging data science, MLOps, and DevOps practices to drive data-driven decision-making.}
+
+% Education
+\section*{EDUCATION}
+\vspace{-2pt}
+{\small
+\textbf{PG Diploma in Data Science and its Application} \hfill \textit{November 2022}\\
+University of Essex, Colchester, United Kingdom \hfill 165 Credits\\[2pt]
+
+\textbf{Bachelor's in Physics} \hfill \textit{August 2021}\\
+University of Calcutta, West Bengal, India \hfill 7.240 CGPA\\[2pt]
+
+\textbf{I.S.C (12th)} \hfill \textit{April 2017}\\
+St. Xavier's Institution, Kolkata, India \hfill 85\%\\[2pt]
+
+\textbf{I.C.S.E (10th)} \hfill \textit{April 2015}\\
+St. Xavier's Institution, Kolkata, India \hfill 93.8\%
+}
+
+% Technical Skills
+\section*{TECHNICAL SKILLS}
+\vspace{-2pt}
+{\small
+\textbf{Programming:} Python, SQL, JavaScript, HTML, CSS, LaTeX\\[1pt]
+\textbf{Data Analysis:} Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Tableau, Excel\\[1pt]
+\textbf{Machine Learning:} Scikit-learn, TensorFlow, PyTorch, PyCaret, Statsmodels, OpenAI GPT-4\\[1pt]
+\textbf{DevOps \& MLOps:} Docker, Kubernetes, Jenkins, CI/CD, Git, GitHub\\[1pt]
+\textbf{Web Development:} FastAPI, Streamlit, Flask, Uvicorn\\[1pt]
+\textbf{Tools:} Jupyter, Google Colab, VSCode, Linux/Unix
+}
+
+% Projects
+\section*{KEY PROJECTS}
+\vspace{-2pt}
+
+\subsection*{Health and Fitness AI App}
+{\small \textit{GitHub:} \href{https://github.com/Xclipxz07/Health-and-Fitness-AI-App}{Xclipxz07/Health-and-Fitness-AI-App}}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=1pt, itemsep=1pt]
+\small
+    \item Developed AI-powered health and fitness application providing personalized recommendations, fitness tracking, and wellness insights based on user health data and behavioral patterns
+    \item Integrated ML algorithms to analyze workout history, nutrition, sleep patterns, and goals, delivering customized fitness plans tailored to individual needs
+    \item Utilized neural networks and recommendation systems to predict fitness outcomes, identify health trends, and suggest optimal exercise routines
+    \item Built backend with Python leveraging Scikit-learn, TensorFlow, and PyTorch for robust predictive modeling and pattern recognition
+    \item Created interactive dashboards with Matplotlib, Seaborn, and Plotly displaying user progress, fitness metrics, and personalized insights
+    \item Implemented Streamlit web framework for real-time health data input, recommendations, and AI-powered fitness guidance
+    \item \textbf{Tech Stack:} Python, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Streamlit, Matplotlib, Seaborn, Plotly
+\end{itemize}
+
+\subsection*{Rainfall Prediction Using ML Models (Dissertation Project)}
+{\small \textit{GitHub:} \href{https://github.com/Xclipxz07/Rainfall-prediction}{Xclipxz07/Rainfall-prediction}}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=1pt, itemsep=1pt]
+\small
+    \item Developed ML dissertation project forecasting rainfall based on historical Australian weather patterns
+    \item Conducted comprehensive EDA to understand weather patterns, correlations, seasonal trends; performed data cleaning including handling missing values and outliers
+    \item Implemented multiple algorithms: Logistic Regression, Random Forest, Gradient Boosting, Neural Networks to identify most effective predictor
+    \item Leveraged PyCaret AutoML library to automate workflow including feature engineering, hyperparameter tuning, and model selection
+    \item Performed comprehensive evaluation using accuracy, precision, recall, F1-score, ROC-AUC curves, and confusion matrices
+    \item Created interactive visualizations using Matplotlib, Seaborn, and Plotly to illustrate patterns, model performance, and predictions
+    \item Developed detailed dissertation using LaTeX with literature review, methodology, results analysis, and conclusions
+    \item \textbf{Tech Stack:} Python, PyCaret, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, LaTeX
+\end{itemize}
+
+\subsection*{Data Analysis for DevOps, MLOps \& GenAI}
+{\small \textit{GitHub:} \href{https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI}{Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI}}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=1pt, itemsep=1pt]
+\small
+    \item Built production-ready sales forecasting system combining ML, generative AI, and DevOps practices
+    \item Implemented end-to-end ML pipeline with SQLite database, Jupyter Notebook, Linear Regression, and OpenAI GPT-4 integration
+    \item Developed scalable REST API using FastAPI with endpoints (\texttt{/sales}, \texttt{/predict}) and auto-generated documentation
+    \item Containerized application using Docker enabling consistent deployment across environments and production scalability
+    \item Orchestrated deployment using Kubernetes with configurations supporting horizontal scaling, load balancing, and high availability
+    \item Implemented complete CI/CD pipeline using Jenkins for automated testing, building Docker images, and Kubernetes deployment
+    \item Created interactive visualizations using Plotly for sales trend analysis and Power BI dashboards for business intelligence
+    \item Developed technical documentation using LaTeX covering architecture, ML methodology, API specs, deployment procedures
+    \item \textbf{Tech Stack:} Python, Jupyter, SQLite, Scikit-learn, OpenAI GPT-4, FastAPI, Plotly, Power BI, Docker, Kubernetes, Jenkins, LaTeX
+\end{itemize}
+
+% Core Competencies
+\section*{CORE COMPETENCIES}
+\vspace{-2pt}
+{\small
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=1pt, itemsep=0pt]
+    \item Machine Learning \& Predictive Modeling
+    \item Data Cleaning \& Preprocessing
+    \item Feature Engineering \& Selection
+    \item Exploratory Data Analysis (EDA)
+    \item Data Visualization \& Storytelling
+    \item Business Intelligence Dashboards
+    \item SQL Query Optimization
+    \item API Development \& Integration
+    \item Containerization (Docker)
+    \item Orchestration (Kubernetes)
+    \item CI/CD Pipeline Automation
+    \item Technical Documentation
+    \item Problem Solving \& Critical Thinking
+    \item Version Control (Git/GitHub)
+\end{itemize}
+\end{multicols}
+}
+
+\vspace{2pt}
+\begin{center}
+\color{lightgray}\small
+\textit{References available upon request}
+\end{center}
+
+\end{document}
