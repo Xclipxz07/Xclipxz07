@@ -96,14 +96,6 @@
 - **Technologies & Tools:** Python, Jupyter Notebook, SQLite, Pandas, Scikit-learn (LinearRegression), OpenAI GPT-4, FastAPI, Uvicorn, Plotly, Power BI, Docker, Kubernetes, Jenkins, LaTeX, SQL, Git
 - **Key Skills Demonstrated:** Machine Learning, Generative AI (GenAI), DevOps, MLOps, CI/CD Automation, API Development, Database Management, Data Visualization, Dashboard Design, Containerization, Orchestration, Technical Documentation, Full-Stack Data Engineering
 
-### 🔹 [PORTFOLIO](https://github.com/Xclipxz07/Portfolio)
-
-- Professional portfolio website designed to showcase my skills, expertise, and achievements in data analysis and machine learning.
-- Built with modern web technologies (HTML, CSS, JavaScript) featuring an interactive and responsive design that highlights key projects, technical skills, education, and professional background.
-- Deployed on GitHub Pages for seamless online accessibility, providing recruiters and collaborators with a comprehensive overview of my work and capabilities.
-- Includes downloadable resume (CV), project links, contact information, and GitHub statistics for easy reference and connection.
-- **Tools Used:** HTML5, CSS3, JavaScript, GitHub Pages
-
 ### 🔹 [HEALTH AND FITNESS AI APP](https://github.com/Xclipxz07/Health-and-Fitness-AI-App)
 
 - An intelligent health and fitness application powered by artificial intelligence designed to provide personalized recommendations, fitness tracking, and wellness insights based on user health data and behavioral patterns. 
@@ -141,29 +133,6 @@
 - Generated professional presentation materials (PowerPoint) summarizing key findings, model performance, and actionable insights for stakeholders and academic review, effectively communicating complex machine learning concepts to non-technical audiences.
 - **Technologies & Tools:** Python, Jupyter Notebook, PyCaret (AutoML), Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels (ARIMA), LaTeX, PowerPoint, GitHub, Google Colab
 - **Key Skills Demonstrated:** Machine Learning, Time Series Analysis, Feature Engineering, Model Evaluation, EDA, Data Cleaning, AutoML, Academic Research, Technical Documentation
-  
-### 🔹 [SIMPLE A&E ANALYSIS USING DIFFERENT TOOLS](https://github.com/Xclipxz07/Simple-analysis-using-different-tools)
-
-- Created Synthetic data for attendance and emergency analysis (NHS) in sql and python.
-- Analysed the Data and visualized it and then forcasted the next 2month using ML models.
-- Used tools SQL, Python, PowerBi and Tableau(Dashboard creation)
-
-### 🔹 [NHS DATA ANALYSIS](https://github.com/Xclipxz07/NHS-ANALYSIS)
-
-- Created MOCK data/Loaded csv file for 3 different analysis (NHS) in python.
-- Automation scripts
-- Patient data cleaning
-- Survey Analysis using Python 
-
-### 🔹 [SALES ANALYSIS AND FORECASTING USING MACHINE LEARNING](https://github.com/Xclipxz07/Sales-Analysis-and-Forecasting-Using-ML-Models)
-
-- Generated(synthetic) or loaded sales data
-- Data visualization
-- Feature engineering (lags, cyclical features)
-- Machine Learning forecasting models
-- Model comparison (RMSE, MAE)
-
-
 
 ### 🚀 GitHub Stats
 
