@@ -1,7 +1,7 @@
 # I'm Prabhat Dhar.
 
-### *Data Architect. Machine Learning Engineer. Problem Solver.*
-> *“If a human has to manually click a button every morning, the engineer hasn’t finished the job yet.”*
+### *Theoretical Physicist turned Data Architect & Machine Learning Engineer.*
+> *“Theoretical physicist turned Data architect. I build things that redefine what’s possible—usually over a weekend, usually while listening to AC/DC.”*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demos-00c8ff?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
@@ -26,7 +26,7 @@ I don't build toys. I engineer production-grade systems that take messy, high-ve
 ## 🎓 Academic Foundation
 
 - 🎓 **Postgraduate Diploma in Data Science and Its Applications**  
-  🏫 **University of Essex**, United Kingdom — *November 2022 (165 Credits)*  
+  🏫 **University of Essex**, United Kingdom — *November 2022 (165 Credits - Distinction Level)*  
   📍 Colchester, Essex, UK  
 
 - ⚛️ **Bachelor of Science in Physics (Honours)**  
@@ -41,7 +41,7 @@ I don't build toys. I engineer production-grade systems that take messy, high-ve
 
 ---
 
-## ⚡ The Arsenal (Tech Stack & Tools)
+## ⚡ The Technical Arsenal
 
 ### 💻 Languages I Command
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -185,7 +185,7 @@ I don't build toys. I engineer production-grade systems that take messy, high-ve
 
 I am currently based in London, UK and **actively available for full-time Data Analyst, Cloud Data Engineer, and Machine Learning Engineer roles (UK Visa Sponsorship Required / Skilled Worker Route Eligible)**.
 
-If you're looking for someone who doesn't just write scripts, but architects end-to-end cloud pipelines, builds fast AI surrogates, and delivers massive ROI from Day 1 — let's connect:
+If you're looking for someone who doesn't just write scripts, but architects end-to-end cloud pipelines, builds fast AI surrogates, and delivers massive value from Day 1 — let's connect:
 
 - 💼 **LinkedIn:** [linkedin.com/in/prabhat-dhar-13723618b](http://linkedin.com/in/prabhat-dhar-13723618b)
 - 🌐 **Interactive Portfolio:** [xclipxz07.github.io/Portfolio](https://xclipxz07.github.io/Portfolio/)
