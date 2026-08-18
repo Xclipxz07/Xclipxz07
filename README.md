@@ -1,199 +1,202 @@
-# Hi there, I'm Prabhat Dhar 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhat%20Dhar-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-blue?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-prabhatdhar32%40gmail.com-D14836?style=flat&logo=gmail)](mailto:prabhatdhar32@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London%2C%20UK-red?style=flat&logo=google-maps)](https://maps.google.com/?q=London,UK)
-[![Status](https://img.shields.io/badge/UK%20Visa-Eligible%20to%20Work%20(20%20hrs%2Fwk)-brightgreen?style=flat)]()
+# ⚡ PRABHAT DHAR ⚡
+### 🤖 STARK INDUSTRIES DATA ARCHITECT & AI ENGINEER 🤖
+*“Sometimes you gotta run before you can walk.”*
 
-**Data Analyst | Cloud Data Engineer | Machine Learning & MLOps Specialist**
+[![Arc Reactor Status](https://img.shields.io/badge/ARC%20REACTOR-100%25%20OPTIMAL-00f0ff?style=for-the-badge&logo=react&logoColor=black)]()
+[![System Clearance](https://img.shields.io/badge/STARK%20CLEARANCE-LEVEL%207%20OMEGA-gold?style=for-the-badge&logo=shield&logoColor=black)]()
+[![J.A.R.V.I.S. Core](https://img.shields.io/badge/AI%20PROTOCOLS-ONLINE-crimson?style=for-the-badge&logo=openai&logoColor=white)]()
 
-Physics graduate with a **Postgraduate Diploma in Data Science and Its Applications** from the **University of Essex** and a **Bachelor’s in Physics** from the **University of Calcutta**. Passionate about transforming raw multi-source data into scalable cloud pipelines, building high-performance AI surrogate models, and delivering actionable business intelligence dashboards.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/SECURE%20COMMS-LINKEDIN-0077B5?style=flat-square&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
+[![Stark Terminal](https://img.shields.io/badge/HOLO--HUD-PORTFOLIO%20WEBSITE-00f0ff?style=flat-square&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
+[![Direct Uplink](https://img.shields.io/badge/ENCRYPTED%20UPLINK-EMAIL-D14836?style=flat-square&logo=gmail)](mailto:prabhatdhar32@gmail.com)
+[![Global Sector](https://img.shields.io/badge/SECTOR-LONDON%2C%20UK-red?style=flat-square&logo=google-maps)](https://maps.google.com/?q=London,UK)
+[![Work Clearance](https://img.shields.io/badge/UK%20CLEARANCE-ELIGIBLE%20(20%20HRS%2FWK)-brightgreen?style=flat-square)]()
 
-## 🎓 Education & Academic Background
-
-- 🎓 **Postgraduate Diploma in Data Science and Its Applications**  
-  🏫 **University of Essex** — *November 2022 (165 Credits)*  
-  📍 Colchester, Essex, United Kingdom  
-
-- 🎓 **Bachelor of Science in Physics (Honours)**  
-  🏫 **University of Calcutta** — *August 2021 (7.240 CGPA)*  
-  📍 Kolkata, West Bengal, India  
-
-- 🎓 **I.S.C (12th Grade - Science)**  
-  🏫 **St. Xavier's Institution** — *April 2017 (85.0%)*  
-  📍 Kolkata, West Bengal, India  
-
-- 🎓 **I.C.S.E (10th Grade)**  
-  🏫 **St. Xavier's Institution** — *April 2015 (93.8%)*  
-  📍 Kolkata, West Bengal, India  
+</div>
 
 ---
 
-## 🛠️ Technical Skills & Tech Stack
+## 🛰️ J.A.R.V.I.S. HUD DIAGNOSTICS & SYSTEM PROFILE
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+```yaml
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ OPERATOR: Prabhat Dhar                                                       ║
+║ DESIGNATION: Data Analyst | Cloud Data Engineer | Machine Learning Specialist║
+║ FOUNDATION: Theoretical & Experimental Physics (B.Sc.) + Data Science (PGDip)║
+║ DIRECTIVE: Transform high-velocity multi-source entropy into actionable AI   ║
+║ STATUS: All Systems Operational | Arc Reactor @ Peak Output                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-### ☁️ Cloud Platforms & Big Data Lakehouse
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![AWS EMR](https://img.shields.io/badge/AWS%20EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+> 💬 *"Data is the new element. But like Palladium, it needs to be engineered, synthesized, and weaponized into intelligence."*
+
+---
+
+## 🎓 STARK ACADEMY & ACADEMIC DOSSIER
+
+<div align="left">
+
+- 🏛️ **Postgraduate Diploma in Data Science and Its Applications**  
+  🏫 **University of Essex**, United Kingdom — *165 Credits (Distinction Level)*  
+  📍 *Colchester Sector, UK*  
+
+- ⚛️ **Bachelor of Science in Physics (Honours)**  
+  🏫 **University of Calcutta**, India — *7.240 CGPA*  
+  📍 *Calcutta Sector, India*  
+
+- 🔬 **I.S.C (12th Grade - Pure Science & Mathematics)**  
+  🏫 **St. Xavier's Institution**, India — *85.0%*  
+
+- 📐 **I.C.S.E (10th Grade)**  
+  🏫 **St. Xavier's Institution**, India — *93.8%*  
+
+</div>
+
+---
+
+## ⚡ THE STARK ARMORY (TECH STACK & CORE PROTOCOLS)
+
+### 🚀 Propulsion & Cloud Infrastructure
+![Amazon AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3%20Data%20Lake-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue%20Catalog-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Athena%20Serverless%20SQL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift%20DW-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS%20EMR%20Clusters-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ⚙️ Data Engineering & Orchestration
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Parquet](https://img.shields.io/badge/Snappy%20Parquet-569A31?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🤖 Machine Learning, AI & Deep Learning
+### 🧠 J.A.R.V.I.S. Neural Protocols (AI, ML & Surrogates)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB2529?style=for-the-badge&logo=xgboost&logoColor=white)
-![AutoGluon](https://img.shields.io/badge/AWS%20AutoGluon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy%20Optimization-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost%20Gradient%20Boost-EB2529?style=for-the-badge&logo=xgboost&logoColor=white)
+![AutoGluon](https://img.shields.io/badge/AWS%20AutoGluon%20AutoML-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch%20Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20Neural%20Nets-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy%20Physics%20Optimization-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV%20Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🚀 DevOps, IaC & Containerization
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚙️ Flight Dynamics & Telemetry Pipelines (Data Engineering)
+![Apache Airflow](https://img.shields.io/badge/Airflow%20Mission%20Control-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark%20Heavy%20Compute-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB%20Quantum%20Engine-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas%20Core-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy%20Tensors-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Parquet](https://img.shields.io/badge/Snappy%20Parquet%20Storage-569A31?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel%20%26%20Copilot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🛡️ Arc Defense & Automated Fabrication (DevOps & IaC)
+![Terraform](https://img.shields.io/badge/Terraform%20IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20Nanotech-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20Swarm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins%20Automated%20CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20Version%20Core-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🌟 Featured Engineering & AI Projects
-
-### 🏎️ [AI for Mechanical Engineering & EV Digital Twin](https://github.com/Xclipxz07/ai-mechanical-engineering-digital-twin)
-- Built an industrial EV Digital Twin modeling multi-channel physics telemetry (Battery Thermal, Autonomous Dynamics, Aerodynamic Stress).
-- Trained AI neural surrogate regressors approximating 8-hour 3D CFD aerodynamic simulations in **$< 0.05$ ms ($R^2 > 0.99$)**.
-- Implemented battery thermal management algorithms predicting thermal runaway risks and cell gradients ($\Delta T$).
-- Executed **SciPy numerical optimization (`SLSQP`)** for real-time active aero flap tuning during high-speed cornering.
-- **Tech Stack:** Python, Scikit-Learn, SciPy, NumPy, Pandas, DuckDB, Snappy Parquet, Apache Airflow, Terraform.
-
-### ☁️ [AWS Serverless Data Analytics Lakehouse](https://github.com/Xclipxz07/aws-serverless-data-analytics-lakehouse)
-- Architected an end-to-end serverless data analytics and SLA monitoring pipeline on AWS utilizing Amazon S3, AWS Glue, and Amazon Athena.
-- Automated schema inference and metadata registration with AWS Glue Crawlers and Glue Data Catalog.
-- Executed the 4-pillar analytics maturity model: **Descriptive, Diagnostic, Predictive, and Prescriptive SQL**.
-- Enforced Athena Workgroup byte-scan caps (10 GB) and Snappy Parquet conversion to slash query scan costs by **85%**.
-- **Tech Stack:** Amazon S3, AWS Glue, Amazon Athena, Amazon QuickSight, SQL, Terraform, Python, DuckDB.
-
-### 👁️ [Automated Image Classification with AWS AutoGluon](https://github.com/Xclipxz07/aws-autogluon-image-classification)
-- Developed an automated Computer Vision image classification system using **AWS AutoGluon Vision (`ImagePredictor`)** and OpenCV.
-- Automated deep Convolutional Neural Network (CNN) selection, transfer learning, and hyperparameter tuning with zero manual tweaking.
-- Trained high-accuracy vision models for medical diagnostic imaging (Chest X-Rays for Lung Disease) and retail fashion catalogs.
-- **Tech Stack:** Python, AWS AutoGluon, OpenCV, Deep Learning, CNNs, Matplotlib, Seaborn.
-
-### 🩺 [Predictive Healthcare Classification with Scikit-Learn & XGBoost](https://github.com/Xclipxz07/scikit-learn-ml-classification-healthcare)
-- Engineered supervised machine learning classification pipelines in Python predicting cardiovascular disease and diabetes risks.
-- Preprocessed 70,000+ clinical records, handling missing values, outliers, and feature scaling with Pandas and Seaborn.
-- Trained and hyperparameter-tuned **XGBoost Classifiers (`XGBClassifier`)**, evaluating with Confusion Matrices and ROC-AUC curves.
-- **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn.
-
-### 📊 [Global Sales Analytics with Excel & Copilot](https://github.com/Xclipxz07/global-sales-data-analysis-excel-copilot)
-- Cleaned and standardized multi-market international sales datasets across Electric Vehicles, Mobility, and Smart Appliances.
-- Handled mixed foreign currencies, converted multi-region transactions to normalized USD, and eliminated duplicate records.
-- Created executive pivot tables, dynamic formula models (`XLOOKUP`, `INDEX/MATCH`), and visual dashboards.
-- **Tech Stack:** Microsoft Excel, Microsoft Copilot, Power Query, Financial Data Modeling, Pivot Dashboards.
-
-### 📺 [Channel 4 Big Data Ad Impression Pipeline](https://github.com/Xclipxz07/channel4-bigdata-ad-pipeline)
-- Built an automated Big Data ETL lakehouse pipeline ingesting multi-format ad logs (JSON, CSV, XML, YAML) from Smart TVs and Web.
-- Implemented **Apache Airflow DAGs** orchestrating nightly 2:00 AM runs with PySpark transformation and eCPM revenue calculations.
-- Converted raw data into snappy-compressed Parquet partitioned by geographical region for instant sub-second querying.
-- **Tech Stack:** PySpark, AWS EMR, Apache Airflow, DuckDB, Snappy Parquet, Terraform, Python.
-
-### 🏥 [NHS Patient Healthcare Analytics Lakehouse](https://github.com/Xclipxz07/nhs-patient-healthcare-analytics-lakehouse)
-- Developed an automated healthcare data lakehouse on AWS using Terraform, Airflow, and S3 for emergency A&E waiting-time analytics.
-- Enforced strict **GDPR / HIPAA compliance** by implementing SHA-256 cryptographic hashing to pseudonymize sensitive patient identifiers.
-- **Tech Stack:** Terraform, AWS S3, AWS Glue, Amazon Athena, Apache Airflow, Snappy Parquet, Python.
-
-### 🗄️ [Legacy Oracle to Amazon Redshift Data Migration](https://github.com/Xclipxz07/oracle-to-redshift-data-migration)
-- Automated an enterprise database migration pipeline moving on-premise Oracle transactional databases to Amazon Redshift.
-- Containerized migration workloads using Docker and orchestrated automated CI/CD deployment pipelines with Jenkins.
-- **Tech Stack:** Amazon Redshift, Oracle Database, Docker, Jenkins CI/CD, Terraform, SQL, Python.
-
-### 🌐 [AWS & GCP Multi-Cloud IDW Analytics Pipeline](https://github.com/Xclipxz07/aws-gcp-multi-cloud-idw-pipeline)
-- Implemented a multi-cloud Integrated Data Warehouse (IDW) bridging AWS S3 storage with GCP BigQuery analytics.
-- Managed multi-cloud infrastructure with Terraform and automated scheduled synchronization with Docker and Jenkins.
-- **Tech Stack:** AWS S3, GCP BigQuery, Terraform, Docker, Jenkins, Python.
-
-### 🚀 [Sales Forecasting System for DevOps, MLOps & GenAI](https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI)
-- Production-ready sales forecasting system combining Machine Learning, OpenAI GPT-4, and full-lifecycle DevOps automation.
-- Scalable REST API with FastAPI, containerized with Docker, orchestrated with Kubernetes, and automated with Jenkins CI/CD.
-- **Tech Stack:** Python, FastAPI, OpenAI GPT-4, Scikit-learn, Docker, Kubernetes, Jenkins, SQLite, Power BI, Plotly.
-
-### 🏃 [Health and Fitness AI Personalized Coach App](https://github.com/Xclipxz07/Health-and-Fitness-AI-App)
-- AI-powered fitness application built in Streamlit analyzing user biometric logs, nutrition, and workout patterns.
-- Deployed ML recommendation models predicting fitness outcomes and delivering personalized workout routines.
-- **Tech Stack:** Python, Streamlit, Scikit-learn, TensorFlow, PyTorch, Pandas, Plotly.
-
-### 🌧️ [Australian Rainfall Forecasting with PyCaret & ML](https://github.com/Xclipxz07/Rainfall-prediction)
-- Meteorological machine learning dissertation project forecasting rainfall patterns across Australia.
-- Leveraged PyCaret AutoML, XGBoost, Random Forests, and Logistic Regression with comprehensive ROC-AUC evaluation.
-- **Tech Stack:** Python, PyCaret AutoML, Scikit-learn, XGBoost, Pandas, Statsmodels, LaTeX.
-
-### 📚 [Data Engineering Master Study Guides](https://github.com/Xclipxz07/data-engineering-study-materials)
-- Standalone master repository containing 8 production-grade study guides covering AWS Cloud, SQL Optimization, R Programming, Advanced Excel, Jira Agile, Slack DevOps, and Big Data Architecture.
+### 📊 Tactical Holographic HUD (BI & Visualization)
+![Power BI](https://img.shields.io/badge/Power%20BI%20Holograms-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel%20%26%20Copilot%20AI-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly%20Dynamic%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI%20Sub--Millisecond-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 📜 Verified Certifications & Credentials
+## 🛠️ STARK INDUSTRIES CLASSIFIED PROTOTYPES (PROJECTS)
 
-| Certification / Specialization | Issuing Organization | Verification Link |
+### 🏎️ [MARK V: Industrial EV Digital Twin & AI Physics Surrogate](https://github.com/Xclipxz07/ai-mechanical-engineering-digital-twin)
+* **Directive:** Real-time physics-informed digital twin for high-performance electric vehicles & autonomous robotics.
+* **Breakthrough:** Trained AI neural surrogate regressors that approximate 8-hour 3D CFD aerodynamic simulations in **$< 0.05$ ms ($R^2 > 0.99$)**.
+* **Safety Protocols:** Lithium-Ion battery thermal runaway prediction ($\Delta T$ gradient tracking) and **SciPy SLSQP** active aero flap optimization.
+* **Tech:** `Python` `Scikit-Learn` `SciPy` `DuckDB` `Snappy Parquet` `Airflow` `Terraform`
+
+### ☁️ [MARK IV: AWS Serverless Telemetry Lakehouse & SLA Core](https://github.com/Xclipxz07/aws-serverless-data-analytics-lakehouse)
+* **Directive:** Scalable, cost-engineered enterprise data lakehouse built on AWS serverless architecture.
+* **Breakthrough:** Slashed Athena byte-scan query costs by **85%** using Snappy Parquet partitioning and 10 GB runaway circuit breakers.
+* **Intelligence:** Full 4-pillar analytics suite: Descriptive, Diagnostic, Predictive, and Prescriptive SQL queries.
+* **Tech:** `Amazon S3` `AWS Glue` `Amazon Athena` `Amazon QuickSight` `Terraform` `SQL`
+
+### 👁️ [MARK III: Computer Vision Targeting with AWS AutoGluon](https://github.com/Xclipxz07/aws-autogluon-image-classification)
+* **Directive:** Autonomous multi-class deep learning image classification across medical diagnostic X-Rays and retail catalogs.
+* **Breakthrough:** Automated transfer learning and CNN backbone selection with **AWS AutoGluon Vision**, delivering top-tier diagnostic accuracy.
+* **Tech:** `Python` `AWS AutoGluon` `OpenCV` `Deep CNNs` `Transfer Learning`
+
+### 🩺 [MARK II: Clinical Risk Classifier with Scikit-Learn & XGBoost](https://github.com/Xclipxz07/scikit-learn-ml-classification-healthcare)
+* **Directive:** Supervised predictive health AI identifying cardiovascular diseases and diabetes risks from 70,000+ patient records.
+* **Breakthrough:** Hyperparameter-tuned XGBoost decision trees evaluated with Confusion Matrices and ROC-AUC curve diagnostics.
+* **Tech:** `Scikit-Learn` `XGBoost` `Pandas` `NumPy` `Seaborn`
+
+### 📊 [MARK I: Multi-Market Sales Intelligence with Excel & Copilot](https://github.com/Xclipxz07/global-sales-data-analysis-excel-copilot)
+* **Directive:** Automated global revenue normalization, dirty data deduplication, and executive pivot reporting for EV & mobility fleets.
+* **Tech:** `Microsoft Excel` `Microsoft Copilot` `Power Query` `Dynamic Arrays`
+
+### 📺 [PROTOTYPE ALPHA: Channel 4 Big Data Ad Revenue Pipeline](https://github.com/Xclipxz07/channel4-bigdata-ad-pipeline)
+* **Directive:** Automated nightly 2:00 AM Big Data lakehouse processing streaming ad impressions across Smart TVs & Web platforms.
+* **Tech:** `PySpark` `AWS EMR` `Apache Airflow` `DuckDB` `Parquet` `Terraform`
+
+### 🏥 [PROTOTYPE BETA: NHS Patient Healthcare Analytics Lakehouse](https://github.com/Xclipxz07/nhs-patient-healthcare-analytics-lakehouse)
+* **Directive:** Secure emergency A&E hospital waiting-time analytics engine with SHA-256 GDPR cryptographic pseudonymization.
+* **Tech:** `Terraform` `AWS S3` `AWS Glue` `Amazon Athena` `Airflow`
+
+### 🗄️ [PROTOTYPE GAMMA: Legacy Oracle to Amazon Redshift Cloud Migration](https://github.com/Xclipxz07/oracle-to-redshift-data-migration)
+* **Directive:** Automated enterprise database migration pipeline moving on-premise transactional Oracle data to Amazon Redshift DW.
+* **Tech:** `Amazon Redshift` `Docker` `Jenkins CI/CD` `Terraform` `SQL`
+
+### 🌐 [PROTOTYPE DELTA: AWS & GCP Multi-Cloud Integrated Data Warehouse](https://github.com/Xclipxz07/aws-gcp-multi-cloud-idw-pipeline)
+* **Directive:** Multi-cloud data warehouse bridging AWS S3 storage with GCP BigQuery analytics via automated Docker and Jenkins sync.
+* **Tech:** `AWS S3` `GCP BigQuery` `Terraform` `Docker` `Jenkins`
+
+### 🚀 [PROTOTYPE EPSILON: Sales Forecasting MLOps & GenAI Copilot](https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI)
+* **Directive:** Production-ready sales forecasting system combining ML, OpenAI GPT-4, FastAPI, Docker, Kubernetes, and Jenkins CI/CD.
+* **Tech:** `FastAPI` `OpenAI GPT-4` `Docker` `Kubernetes` `Jenkins` `Power BI`
+
+### 📚 [THE ARCHIVES: Data Engineering & Cloud Master Guides](https://github.com/Xclipxz07/data-engineering-study-materials)
+* **Directive:** Master repository containing 8 production-grade blueprints covering AWS Cloud, SQL Optimization, R Programming, Jira Agile, and DevOps.
+
+---
+
+## 🎖️ CERTIFIED STARK TECH CLEARANCES (CREDENTIALS)
+
+| Clearance / Specialization | Authority | Verification Uplink |
 | :--- | :--- | :--- |
-| **Microsoft Data Analysis with SQL, Excel & Power BI** *(5 Courses)* | Microsoft / Coursera | [Verify Certificate](https://coursera.org/verify/specialization/VXYOBGDSIQOO) |
-| **Gemini for Developers Specialization** *(3 Courses)* | Google DeepMind | [Verify Certificate](https://coursera.org/verify/specialization/DMVKPELEY3J2) |
-| **Google AI Professional Certificate** *(7 Courses)* | Google Career Certificates | [Verify Certificate](https://coursera.org/verify/professional-cert/FW6A17MGN8U3) |
-| **AI for Mechanical Engineers Specialization** *(3 Courses)* | University of Michigan | [Verify Certificate](https://coursera.org/verify/specialization/BUUPCEOS9DG1) |
-| **Getting Started with Data Analytics on AWS** | Amazon Web Services (AWS) | [Verify Certificate](https://coursera.org/verify/0R8IQQB4CTI1) |
-| **Scikit-Learn for ML Classification Problems** | Coursera Project Network | [Verify Certificate](https://coursera.org/verify/8KLLIRRLXTWN) |
-| **Image Classification on Autopilot with AWS AutoGluon** | Coursera Project Network | [Verify Certificate](https://coursera.org/verify/MVVF8ARA6H2C) |
+| **Microsoft Data Analysis (SQL, Excel & Power BI)** | Microsoft | [🛰️ Verify Credential](https://coursera.org/verify/specialization/VXYOBGDSIQOO) |
+| **Gemini for Developers Specialization** | Google DeepMind | [🛰️ Verify Credential](https://coursera.org/verify/specialization/DMVKPELEY3J2) |
+| **Google AI Professional Certificate** | Google | [🛰️ Verify Credential](https://coursera.org/verify/professional-cert/FW6A17MGN8U3) |
+| **AI for Mechanical Engineers Specialization** | Univ. of Michigan | [🛰️ Verify Credential](https://coursera.org/verify/specialization/BUUPCEOS9DG1) |
+| **Getting Started with Data Analytics on AWS** | Amazon Web Services | [🛰️ Verify Credential](https://coursera.org/verify/0R8IQQB4CTI1) |
+| **Scikit-Learn for ML Classification Problems** | Coursera | [🛰️ Verify Credential](https://coursera.org/verify/8KLLIRRLXTWN) |
+| **Image Classification on Autopilot with AutoGluon** | Coursera | [🛰️ Verify Credential](https://coursera.org/verify/MVVF8ARA6H2C) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 J.A.R.V.I.S. LIVE TELEMETRY & GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xclipxz07&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xclipxz07&theme=radical" alt="GitHub Trophies" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=xclipxz07&theme=radical&background=0b0f19&border=00f0ff&stroke=00f0ff&ring=gold&fire=crimson" alt="Stark Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=xclipxz07&theme=radical&column=7&margin-w=15&background=0b0f19" alt="Stark Trophies" />
+
+</div>
 
 ---
 
-## 🤝 Connect & Collaborate
+<div align="center">
 
-- 💼 **LinkedIn:** [linkedin.com/in/prabhat-dhar-13723618b](http://linkedin.com/in/prabhat-dhar-13723618b)
-- 🌐 **Portfolio Website:** [xclipxz07.github.io/Portfolio](https://xclipxz07.github.io/Portfolio/)
-- 📧 **Email:** [prabhatdhar32@gmail.com](mailto:prabhatdhar32@gmail.com)
-- 🐙 **GitHub:** [github.com/Xclipxz07](https://github.com/Xclipxz07)
+### 🔒 ENCRYPTED COMMS & COLLABORATION CHANNELS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/prabhat-dhar-13723618b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://xclipxz07.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Encrypted%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhatdhar32@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xclipxz07)
+
+<br/>
+
+*“I am Iron Man.”* ⚡
+
+</div>
