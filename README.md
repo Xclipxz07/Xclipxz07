@@ -1,7 +1,7 @@
 # I'm Prabhat Dhar.
 
 ### *Theoretical Physicist turned Data Architect & Machine Learning Engineer.*
-> *“Theoretical physicist turned Data architect. I build things that redefine what’s possible—usually over a weekend, usually while listening to AC/DC.”*
+> *“They told me to pick one specialty. I decided to engineer the entire pipeline instead.”*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demos-00c8ff?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
