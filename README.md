@@ -1,149 +1,179 @@
-# 👋 Hi, I'm [PRABHAT DHAR](https://github.com/Xclipxz07/RESUME/blob/main/Prabhatcv.pdf)
+# Hi there, I'm Prabhat Dhar 👋
 
-[Personal Website](https://xclipxz07.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhat%20Dhar-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-blue?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-prabhatdhar32%40gmail.com-D14836?style=flat&logo=gmail)](mailto:prabhatdhar32@gmail.com)
+[![Location](https://img.shields.io/badge/Location-London%2C%20UK-red?style=flat&logo=google-maps)](https://maps.google.com/?q=London,UK)
+[![Status](https://img.shields.io/badge/UK%20Visa-Eligible%20to%20Work%20(20%20hrs%2Fwk)-brightgreen?style=flat)]()
 
-⭐ *“Data is the new oil — but only when refined.”*
+**Data Analyst | Cloud Data Engineer | Machine Learning & MLOps Specialist**
 
-💼 *Data Analyst | Python | SQL | Power BI | Excel | MLOps | DevOps*  
-📊 I love turning raw data into meaningful insights and visual stories.  
-🎯 Passionate about data visualization, business intelligence, and problem-solving.  
-
----
-
-## 🧠 About Me
-
-- 🌱 Currently learning: *Machine Learning, MLOps, DevOps, and Generative AI*
-- 💡 Interested in: *Data Storytelling, Predictive Modeling, and Dashboard Design*
-- 📍 Based in: LONDON, UNITED KINGDOM
-- 💬 Ask me about: *Data Analysis, ML Pipelines, CI/CD, Containerization, and API Development*
-- ⚡ Fun fact: I believe every dataset tells a story — you just need to ask the right questions!
+Physics graduate with a **Postgraduate Diploma in Data Science and Its Applications** from the **University of Essex** and a **Bachelor’s in Physics** from the **University of Calcutta**. Passionate about transforming raw multi-source data into scalable cloud pipelines, building high-performance AI surrogate models, and delivering actionable business intelligence dashboards.
 
 ---
-## 🎓 Education
 
-🎓 *PG Diploma in Data Science and its Application*  
-🏫 University of Essex — November 2022 - 165 Credits
-📍 Essex (Colchester), United Kingdom
+## 🛠️ Technical Skills & Tech Stack
 
-🎓 *Bachelor’s in Physics*  
-🏫 University of Calcutta — August 2021 - 7.240 C.G.P.A
-📍 Kolkata(West Bengal), India
-
-🎓 *I.S.C (12th)*  
-🏫 St. Xavier's Institution — April 2017 - 85%
-📍 Kolkata(West Bengal), India
-
-🎓 *I.C.S.E (10th)*  
-🏫 St. Xavier's Institution — April 2015 - 93.8%
-📍 Kolkata(West Bengal), India
-
- ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+### ☁️ Cloud Platforms & Big Data Lakehouse
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS%20EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-## 🧩 Libraries & Frameworks
+### ⚙️ Data Engineering & Orchestration
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Parquet](https://img.shields.io/badge/Snappy%20Parquet-569A31?style=for-the-badge&logo=apache&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-6BAF92?style=flat)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4E9A06?style=flat)
-![PyCaret](https://img.shields.io/badge/PyCaret-FF4B4B?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ReportLab](https://img.shields.io/badge/ReportLab-2E8B57?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2C5BB4?style=flat-square&logo=uvicorn&logoColor=white)
+### 🤖 Machine Learning, AI & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB2529?style=for-the-badge&logo=xgboost&logoColor=white)
+![AutoGluon](https://img.shields.io/badge/AWS%20AutoGluon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy%20Optimization-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📊 Projects
+### 🚀 DevOps, IaC & Containerization
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔹 [DATA ANALYSIS FOR DEVOPS, MLOPS & GENAI](https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI)
-
-- A comprehensive production-ready sales forecasting system combining machine learning, generative AI, and modern DevOps practices—demonstrating the complete data science and engineering stack from data analysis to automated deployment.
-- Implements end-to-end ML pipeline including SQLite database for persistent storage, Jupyter Notebook for interactive data exploration, Linear Regression for trend prediction, and OpenAI GPT-4 integration for intelligent AI-powered forecasting.
-- Built scalable REST API using FastAPI framework with multiple endpoints (`/sales`, `/predict`) for programmatic access to sales data and forecasts, complete with auto-generated interactive API documentation.
-- Containerized application using Docker with comprehensive Dockerfile configuration, enabling consistent deployment across environments and seamless scalability for production workloads.
-- Orchestrated deployment using Kubernetes with deployment and service YAML configurations, supporting horizontal scaling, load balancing, and high availability for enterprise-grade applications.
-- Implemented complete CI/CD pipeline using Jenkins (Jenkinsfile) for automated testing, building Docker images, and deploying to Kubernetes—demonstrating modern DevOps automation practices.
-- Created interactive data visualizations using Plotly for dynamic sales trend analysis and 7-day forecasting charts, with Power BI dashboards (.pbix files and PDF exports) for comprehensive business intelligence reporting.
-- Developed comprehensive technical documentation using LaTeX (explanation.tex/pdf) covering system architecture, machine learning methodology, API specifications, deployment procedures, and troubleshooting guides.
-- **Technologies & Tools:** Python, Jupyter Notebook, SQLite, Pandas, Scikit-learn (LinearRegression), OpenAI GPT-4, FastAPI, Uvicorn, Plotly, Power BI, Docker, Kubernetes, Jenkins, LaTeX, SQL, Git
-- **Key Skills Demonstrated:** Machine Learning, Generative AI (GenAI), DevOps, MLOps, CI/CD Automation, API Development, Database Management, Data Visualization, Dashboard Design, Containerization, Orchestration, Technical Documentation, Full-Stack Data Engineering
-
-### 🔹 [HEALTH AND FITNESS AI APP](https://github.com/Xclipxz07/Health-and-Fitness-AI-App)
-
-- An intelligent health and fitness application powered by artificial intelligence designed to provide personalized recommendations, fitness tracking, and wellness insights based on user health data and behavioral patterns. 
-- Integrates machine learning algorithms to analyze user metrics including workout history, nutrition data, sleep patterns, and fitness goals to deliver customized fitness plans and health recommendations tailored to individual needs and preferences.
-- Utilizes advanced AI models (potentially including neural networks, classification algorithms, or recommendation systems) to predict fitness outcomes, identify health trends, and suggest optimal exercise routines and dietary modifications for maximum health benefits.
-- Built with Python for backend processing and machine learning model development, leveraging libraries such as Scikit-learn, TensorFlow, or PyTorch for robust predictive modeling and pattern recognition in health and fitness data.
-- Features interactive data visualization dashboards using Matplotlib, Seaborn, or Plotly to display user progress, fitness metrics, achievement milestones, and personalized health insights in an intuitive and engaging user interface.
-- Implements data preprocessing and feature engineering techniques to clean, normalize, and transform raw health data into meaningful features that improve model accuracy and prediction reliability for personalized health recommendations.
-- Incorporates Streamlit or similar web framework to create a user-friendly web application interface allowing users to input health data, view personalized recommendations, track progress, and receive AI-powered fitness and wellness guidance in real-time.
-- Handles sensitive health and fitness data with appropriate security measures and privacy considerations, ensuring user data protection while maintaining the integrity and confidentiality of personal health information.
-- Demonstrates proficiency in full-stack machine learning development, from data collection and preprocessing to model training, evaluation, and deployment as a functional web application accessible to end users.
-- **Technologies & Tools:** Python, Machine Learning (Scikit-learn, TensorFlow, PyTorch), Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Jupyter Notebook, GitHub, Google Colab
-- **Key Skills Demonstrated:** Artificial Intelligence, Machine Learning, Predictive Modeling, Feature Engineering, Data Analysis, Web Application Development, UI/UX Design, Health Data Analytics, Personalization Algorithms
-
-### 🔹 [C.L.A.I.R.E](https://github.com/Xclipxz07/C.L.A.I.R.E)
-
-- An advanced artificial intelligence application designed to provide intelligent analytics, insights, and personalized recommendations through sophisticated machine learning algorithms and natural language processing capabilities.
-- Leverages Python with powerful machine learning libraries (Scikit-learn, TensorFlow, PyTorch) to process complex datasets, identify meaningful patterns, and deliver actionable intelligence tailored to specific user needs.
-- Implements state-of-the-art algorithms for comprehensive data analysis, pattern recognition, anomaly detection, and predictive modeling to enhance decision-making processes and operational efficiency.
-- Features interactive data visualization dashboards using Matplotlib, Seaborn, and Plotly to present AI-driven insights in visually compelling and easily interpretable formats for diverse audiences.
-- Integrates robust data preprocessing and feature engineering techniques to ensure data quality, consistency, and optimal model performance across various analytical tasks.
-- Provides comprehensive reporting mechanisms and automated insights generation to communicate complex AI-driven findings and recommendations effectively to stakeholders. 
-- Demonstrates full-stack AI application development from data ingestion and model training to deployment and user-facing interfaces for real-world impact.
-- **Technologies & Tools:** Python, Machine Learning (Scikit-learn, TensorFlow, PyTorch), Natural Language Processing, Data Analytics, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook, GitHub
-- 
-### 🔹 [RAINFALL PREDICTION USING ML MODELS AND PYCARET (DISSERTATION PROJECT)](https://github.com/Xclipxz07/Rainfall-prediction)
-
-- A sophisticated machine learning dissertation project aimed at developing predictive models to accurately forecast whether it will rain tomorrow based on historical weather patterns from the Australian weather dataset.
-- Conducted comprehensive exploratory data analysis (EDA) to understand weather patterns, correlations, and seasonal trends; performed rigorous data cleaning including handling missing values, outliers, and data quality issues to ensure dataset integrity and reliability for model training.
-- Implemented multiple machine learning algorithms including Logistic Regression, Random Forest, Gradient Boosting, and Neural Networks to compare performance across different modeling approaches and identify the most effective predictor for rainfall forecasting.
-- Leveraged PyCaret (AutoML library) to automate the machine learning workflow including automated feature engineering, hyperparameter tuning, model selection, and comparison—significantly accelerating the model development process while achieving optimal performance metrics.
-- Performed comprehensive model evaluation and validation using metrics such as accuracy, precision, recall, F1-score, ROC-AUC curves, and confusion matrices to ensure robust model performance and minimize prediction errors in real-world rainfall scenarios.
-- Created interactive visualizations and statistical analyses using Matplotlib, Seaborn, and Plotly to illustrate weather patterns, model performance comparisons, feature importance rankings, and prediction outcomes in an easily interpretable format.
-- Developed a detailed academic dissertation document using LaTeX, complete with literature review, methodology explanation, results analysis, conclusions, and comprehensive bibliography—demonstrating advanced technical writing and research documentation skills.
-- Generated professional presentation materials (PowerPoint) summarizing key findings, model performance, and actionable insights for stakeholders and academic review, effectively communicating complex machine learning concepts to non-technical audiences.
-- **Technologies & Tools:** Python, Jupyter Notebook, PyCaret (AutoML), Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels (ARIMA), LaTeX, PowerPoint, GitHub, Google Colab
-- **Key Skills Demonstrated:** Machine Learning, Time Series Analysis, Feature Engineering, Model Evaluation, EDA, Data Cleaning, AutoML, Academic Research, Technical Documentation
-
-### 🚀 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=xclipxz07&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xclipxz07&theme=radical)
+### 📊 Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel%20%26%20Copilot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🤝 Connect with Me
+## 🌟 Featured Engineering & AI Projects
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhatdhar32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/prabhat-dhar-13723618b )
+### 🏎️ [AI for Mechanical Engineering & EV Digital Twin](https://github.com/Xclipxz07/ai-mechanical-engineering-digital-twin)
+- Built an industrial EV Digital Twin modeling multi-channel physics telemetry (Battery Thermal, Autonomous Dynamics, Aerodynamic Stress).
+- Trained AI neural surrogate regressors approximating 8-hour 3D CFD aerodynamic simulations in **$< 0.05$ ms ($R^2 > 0.99$)**.
+- Implemented battery thermal management algorithms predicting thermal runaway risks and cell gradients ($\Delta T$).
+- Executed **SciPy numerical optimization (`SLSQP`)** for real-time active aero flap tuning during high-speed cornering.
+- **Tech Stack:** Python, Scikit-Learn, SciPy, NumPy, Pandas, DuckDB, Snappy Parquet, Apache Airflow, Terraform.
+
+### ☁️ [AWS Serverless Data Analytics Lakehouse](https://github.com/Xclipxz07/aws-serverless-data-analytics-lakehouse)
+- Architected an end-to-end serverless data analytics and SLA monitoring pipeline on AWS utilizing Amazon S3, AWS Glue, and Amazon Athena.
+- Automated schema inference and metadata registration with AWS Glue Crawlers and Glue Data Catalog.
+- Executed the 4-pillar analytics maturity model: **Descriptive, Diagnostic, Predictive, and Prescriptive SQL**.
+- Enforced Athena Workgroup byte-scan caps (10 GB) and Snappy Parquet conversion to slash query scan costs by **85%**.
+- **Tech Stack:** Amazon S3, AWS Glue, Amazon Athena, Amazon QuickSight, SQL, Terraform, Python, DuckDB.
+
+### 👁️ [Automated Image Classification with AWS AutoGluon](https://github.com/Xclipxz07/aws-autogluon-image-classification)
+- Developed an automated Computer Vision image classification system using **AWS AutoGluon Vision (`ImagePredictor`)** and OpenCV.
+- Automated deep Convolutional Neural Network (CNN) selection, transfer learning, and hyperparameter tuning with zero manual tweaking.
+- Trained high-accuracy vision models for medical diagnostic imaging (Chest X-Rays for Lung Disease) and retail fashion catalogs.
+- **Tech Stack:** Python, AWS AutoGluon, OpenCV, Deep Learning, CNNs, Matplotlib, Seaborn.
+
+### 🩺 [Predictive Healthcare Classification with Scikit-Learn & XGBoost](https://github.com/Xclipxz07/scikit-learn-ml-classification-healthcare)
+- Engineered supervised machine learning classification pipelines in Python predicting cardiovascular disease and diabetes risks.
+- Preprocessed 70,000+ clinical records, handling missing values, outliers, and feature scaling with Pandas and Seaborn.
+- Trained and hyperparameter-tuned **XGBoost Classifiers (`XGBClassifier`)**, evaluating with Confusion Matrices and ROC-AUC curves.
+- **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn.
+
+### 📊 [Global Sales Analytics with Excel & Copilot](https://github.com/Xclipxz07/global-sales-data-analysis-excel-copilot)
+- Cleaned and standardized multi-market international sales datasets across Electric Vehicles, Mobility, and Smart Appliances.
+- Handled mixed foreign currencies, converted multi-region transactions to normalized USD, and eliminated duplicate records.
+- Created executive pivot tables, dynamic formula models (`XLOOKUP`, `INDEX/MATCH`), and visual dashboards.
+- **Tech Stack:** Microsoft Excel, Microsoft Copilot, Power Query, Financial Data Modeling, Pivot Dashboards.
+
+### 📺 [Channel 4 Big Data Ad Impression Pipeline](https://github.com/Xclipxz07/channel4-bigdata-ad-pipeline)
+- Built an automated Big Data ETL lakehouse pipeline ingesting multi-format ad logs (JSON, CSV, XML, YAML) from Smart TVs and Web.
+- Implemented **Apache Airflow DAGs** orchestrating nightly 2:00 AM runs with PySpark transformation and eCPM revenue calculations.
+- Converted raw data into snappy-compressed Parquet partitioned by geographical region for instant sub-second querying.
+- **Tech Stack:** PySpark, AWS EMR, Apache Airflow, DuckDB, Snappy Parquet, Terraform, Python.
+
+### 🏥 [NHS Patient Healthcare Analytics Lakehouse](https://github.com/Xclipxz07/nhs-patient-healthcare-analytics-lakehouse)
+- Developed an automated healthcare data lakehouse on AWS using Terraform, Airflow, and S3 for emergency A&E waiting-time analytics.
+- Enforced strict **GDPR / HIPAA compliance** by implementing SHA-256 cryptographic hashing to pseudonymize sensitive patient identifiers.
+- **Tech Stack:** Terraform, AWS S3, AWS Glue, Amazon Athena, Apache Airflow, Snappy Parquet, Python.
+
+### 🗄️ [Legacy Oracle to Amazon Redshift Data Migration](https://github.com/Xclipxz07/oracle-to-redshift-data-migration)
+- Automated an enterprise database migration pipeline moving on-premise Oracle transactional databases to Amazon Redshift.
+- Containerized migration workloads using Docker and orchestrated automated CI/CD deployment pipelines with Jenkins.
+- **Tech Stack:** Amazon Redshift, Oracle Database, Docker, Jenkins CI/CD, Terraform, SQL, Python.
+
+### 🌐 [AWS & GCP Multi-Cloud IDW Analytics Pipeline](https://github.com/Xclipxz07/aws-gcp-multi-cloud-idw-pipeline)
+- Implemented a multi-cloud Integrated Data Warehouse (IDW) bridging AWS S3 storage with GCP BigQuery analytics.
+- Managed multi-cloud infrastructure with Terraform and automated scheduled synchronization with Docker and Jenkins.
+- **Tech Stack:** AWS S3, GCP BigQuery, Terraform, Docker, Jenkins, Python.
+
+### 🚀 [Sales Forecasting System for DevOps, MLOps & GenAI](https://github.com/Xclipxz07/DATA-ANALYSIS-FOR-DEVOPS-MLOPS-GENAI)
+- Production-ready sales forecasting system combining Machine Learning, OpenAI GPT-4, and full-lifecycle DevOps automation.
+- Scalable REST API with FastAPI, containerized with Docker, orchestrated with Kubernetes, and automated with Jenkins CI/CD.
+- **Tech Stack:** Python, FastAPI, OpenAI GPT-4, Scikit-learn, Docker, Kubernetes, Jenkins, SQLite, Power BI, Plotly.
+
+### 🏃 [Health and Fitness AI Personalized Coach App](https://github.com/Xclipxz07/Health-and-Fitness-AI-App)
+- AI-powered fitness application built in Streamlit analyzing user biometric logs, nutrition, and workout patterns.
+- Deployed ML recommendation models predicting fitness outcomes and delivering personalized workout routines.
+- **Tech Stack:** Python, Streamlit, Scikit-learn, TensorFlow, PyTorch, Pandas, Plotly.
+
+### 🌧️ [Australian Rainfall Forecasting with PyCaret & ML](https://github.com/Xclipxz07/Rainfall-prediction)
+- Meteorological machine learning dissertation project forecasting rainfall patterns across Australia.
+- Leveraged PyCaret AutoML, XGBoost, Random Forests, and Logistic Regression with comprehensive ROC-AUC evaluation.
+- **Tech Stack:** Python, PyCaret AutoML, Scikit-learn, XGBoost, Pandas, Statsmodels, LaTeX.
+
+### 📚 [Data Engineering Master Study Guides](https://github.com/Xclipxz07/data-engineering-study-materials)
+- Standalone master repository containing 8 production-grade study guides covering AWS Cloud, SQL Optimization, R Programming, Advanced Excel, Jira Agile, Slack DevOps, and Big Data Architecture.
+
 ---
+
+## 📜 Verified Certifications & Credentials
+
+| Certification / Specialization | Issuing Organization | Verification Link |
+| :--- | :--- | :--- |
+| **Microsoft Data Analysis with SQL, Excel & Power BI** *(5 Courses)* | Microsoft / Coursera | [Verify Certificate](https://coursera.org/verify/specialization/VXYOBGDSIQOO) |
+| **Gemini for Developers Specialization** *(3 Courses)* | Google DeepMind | [Verify Certificate](https://coursera.org/verify/specialization/DMVKPELEY3J2) |
+| **Google AI Professional Certificate** *(7 Courses)* | Google Career Certificates | [Verify Certificate](https://coursera.org/verify/professional-cert/FW6A17MGN8U3) |
+| **AI for Mechanical Engineers Specialization** *(3 Courses)* | University of Michigan | [Verify Certificate](https://coursera.org/verify/specialization/BUUPCEOS9DG1) |
+| **Getting Started with Data Analytics on AWS** | Amazon Web Services (AWS) | [Verify Certificate](https://coursera.org/verify/0R8IQQB4CTI1) |
+| **Scikit-Learn for ML Classification Problems** | Coursera Project Network | [Verify Certificate](https://coursera.org/verify/8KLLIRRLXTWN) |
+| **Image Classification on Autopilot with AWS AutoGluon** | Coursera Project Network | [Verify Certificate](https://coursera.org/verify/MVVF8ARA6H2C) |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xclipxz07&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xclipxz07&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect & Collaborate
+
+- 💼 **LinkedIn:** [linkedin.com/in/prabhat-dhar-13723618b](http://linkedin.com/in/prabhat-dhar-13723618b)
+- 🌐 **Portfolio Website:** [xclipxz07.github.io/Portfolio](https://xclipxz07.github.io/Portfolio/)
+- 📧 **Email:** [prabhatdhar32@gmail.com](mailto:prabhatdhar32@gmail.com)
+- 🐙 **GitHub:** [github.com/Xclipxz07](https://github.com/Xclipxz07)
