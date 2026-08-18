@@ -1,7 +1,7 @@
 # I'm Prabhat Dhar.
 
 ### *Data Architect. Machine Learning Engineer. Problem Solver.*
-> *"They told me to pick one specialty. I decided to engineer the entire pipeline instead."*
+> *“If a human has to manually click a button every morning, the engineer hasn’t finished the job yet.”*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](http://linkedin.com/in/prabhat-dhar-13723618b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demos-00c8ff?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
