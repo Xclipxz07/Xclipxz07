@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demos-00c8ff?style=flat&logo=google-chrome)](https://xclipxz07.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-prabhatdhar32%40gmail.com-D14836?style=flat&logo=gmail)](mailto:prabhatdhar32@gmail.com)
 [![Location](https://img.shields.io/badge/Location-London%2C%20UK-red?style=flat&logo=google-maps)](https://maps.google.com/?q=London,UK)
-[![Status](https://img.shields.io/badge/UK%20Work%20Status-Eligible%20(20%20hrs%2Fwk)-brightgreen?style=flat)]()
+[![Status](https://img.shields.io/badge/UK%20Work%20Status-Available%20Immediately%20%7C%20Sponsorship%20Required-007acc?style=flat&logo=uk)]()
 
 ---
 
@@ -183,7 +183,9 @@ I don't build toys. I engineer production-grade systems that take messy, high-ve
 
 ## 🤝 Let's Build Something Extraordinary
 
-If you're looking for someone who doesn't just write scripts, but architects end-to-end cloud pipelines, builds fast AI surrogates, and solves high-complexity engineering problems — let's connect:
+I am currently based in London, UK and **actively available for full-time Data Analyst, Cloud Data Engineer, and Machine Learning Engineer roles (UK Visa Sponsorship Required / Skilled Worker Route Eligible)**.
+
+If you're looking for someone who doesn't just write scripts, but architects end-to-end cloud pipelines, builds fast AI surrogates, and delivers massive ROI from Day 1 — let's connect:
 
 - 💼 **LinkedIn:** [linkedin.com/in/prabhat-dhar-13723618b](http://linkedin.com/in/prabhat-dhar-13723618b)
 - 🌐 **Interactive Portfolio:** [xclipxz07.github.io/Portfolio](https://xclipxz07.github.io/Portfolio/)
