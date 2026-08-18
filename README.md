@@ -12,6 +12,26 @@ Physics graduate with a **Postgraduate Diploma in Data Science and Its Applicati
 
 ---
 
+## 🎓 Education & Academic Background
+
+- 🎓 **Postgraduate Diploma in Data Science and Its Applications**  
+  🏫 **University of Essex** — *November 2022 (165 Credits)*  
+  📍 Colchester, Essex, United Kingdom  
+
+- 🎓 **Bachelor of Science in Physics (Honours)**  
+  🏫 **University of Calcutta** — *August 2021 (7.240 CGPA)*  
+  📍 Kolkata, West Bengal, India  
+
+- 🎓 **I.S.C (12th Grade - Science)**  
+  🏫 **St. Xavier's Institution** — *April 2017 (85.0%)*  
+  📍 Kolkata, West Bengal, India  
+
+- 🎓 **I.C.S.E (10th Grade)**  
+  🏫 **St. Xavier's Institution** — *April 2015 (93.8%)*  
+  📍 Kolkata, West Bengal, India  
+
+---
+
 ## 🛠️ Technical Skills & Tech Stack
 
 ### 💻 Programming Languages
